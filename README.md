@@ -34,3 +34,6 @@ Dokumentasi kajian tafsir Al Qur'an Surat Yusuf oleh Ustadz Farid Dhofir di Masj
 
 - [Ayat 38-40](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/tree/master/ayat_38-40)
   * [Download audio kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_38-40/audio_tafsir_surat_yusuf_ayat_38-40.MP3)
+
+- [Ayat 41-42](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/tree/master/ayat_41-42)
+  * [Download audio kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_41-42/audio_tafsir_surat_yusuf_ayat_41-42.MP3)
