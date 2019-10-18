@@ -25,3 +25,6 @@ Dokumentasi kajian tafsir Al Qur'an Surat Yusuf oleh Ustadz Farid Dhofir di Masj
 
 - [Ayat 22-29](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/tree/master/ayat_22-29)
   * [Download audio kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_22-29/audio_tafsir_surat_yusuf_ayat_22-29.mp3)
+
+- [Ayat 30-32](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/tree/master/ayat_30-32)
+  * [Download audio kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_30-32/audio_tafsir_surat_yusuf_ayat_30-32.mp3)
