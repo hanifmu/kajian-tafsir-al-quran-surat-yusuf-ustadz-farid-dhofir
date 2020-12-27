@@ -67,3 +67,6 @@ Dokumentasi kajian tafsir Al Qur'an Surat Yusuf oleh Ustadz Farid Dhofir di Masj
 
 - Ayat 78-79 #2
     * [Download audio kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_78-79_2/audio_tafsir_surat_yusuf_ayat_78-79_2.MP3)
+    
+- Ayat 80-82
+    * [Download audio kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_80-82/audio_tafsir_surat_yusuf_ayat_80-82.mp3)
